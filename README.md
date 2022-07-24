@@ -2,6 +2,8 @@
 
 The projct helps in classifing if the given news is fake or realible using Natural language processing and DEEP LEARNING
 
+heroku link: https://fakenewsclassifier1.herokuapp.com/
+
 ![1](https://user-images.githubusercontent.com/96243604/180594977-2f191af2-3a99-496a-a35e-4a3fcb1d52ef.png)
 
 To check if the news is fake or realible enter your news in the text bar and click on the predict button
